@@ -1,0 +1,27 @@
+.navber {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+.table-user {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table-user td,
+th {
+    background-color: aquamarine;
+    border: 1px solid rgb(219, 53, 53);
+    padding: 10px;
+    width: 20%;
+    text-align: center;
+}
